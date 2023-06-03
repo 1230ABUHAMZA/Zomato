@@ -1,0 +1,43 @@
+.img
+{
+    width: 20px;
+}
+.sec
+{
+    background:linear-gradient(0deg, rgba(11, 9, 10, 0.3), rgba(9, 7, 8, 0.3)), url(./images/bg.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.img1
+{
+    width: 140px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.but
+{
+    background-color: #e23744;
+    color: white;
+}
+.img2
+{
+    width: 150px
+}
+
+.img6{
+    width: 350px;
+}
+.img7{
+    width: 120px;
+}
+.img8{
+    width: 150px;
+}
+.img9
+{
+    width: 50px;
+}
+ul{
+    list-style-type: none;
+    color: white;
+}
